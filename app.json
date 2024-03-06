@@ -1,4 +1,8 @@
 {
   "name": "ListAppAdMobs",
-  "displayName": "ListAppAdMobs"
+  "displayName": "ListAppAdMobs",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-7538406758481338~4797611043"
+  }
 }
+
